@@ -1,0 +1,5 @@
+a = int(1)
+b = int(23)
+c = int(4)
+e = int(5)
+print(a+b-c+e)
